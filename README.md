@@ -83,11 +83,7 @@ jupyter notebook
 hh-data-scientist-analysis/  
 ├── README.md 
 ├── requirements.txt 
-├── notebooks/
-│ └── Анализ HhRu.ipynb 
-├── scripts/
-│ └── scrape_hh_vacancies.py  
-├── data/ 
-  └── processed/  
-	  └── hh_data_scientist_msk.csv
+├── Анализ HhRu.ipynb 
+├── scrape_hh_vacancies.py  
+├── hh_data_scientist_msk.csv
 
